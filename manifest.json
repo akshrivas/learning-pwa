@@ -1,0 +1,14 @@
+{
+  "name": "Learning PWA",
+  "short_name": "PWA",
+  "icons": [{
+    "src": "img/icon.jpg",
+    "sizes": "512*512",
+    "type": "image/jpg"
+  }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FF0000",
+  "theme_color": "#FF0000"
+}
